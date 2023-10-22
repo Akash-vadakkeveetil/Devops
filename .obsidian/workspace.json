@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4513351c5b64bba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sample readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "networking/The Networking guide.md",
+                "file": "sample readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "networking/The Networking guide.md",
+                "file": "sample readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "networking/The Networking guide.md"
+                "file": "sample readme.md"
               }
             }
           }
@@ -162,14 +174,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9fcb52c5a1766da2",
+  "active": "4513351c5b64bba3",
   "lastOpenFiles": [
-    "Pasted image 20231015232257.png",
-    "README.md",
+    "Untitled.canvas",
+    "sample readme.md",
     "networking/The Networking guide.md",
+    "Pasted image 20231016065915.png",
+    "networking/images",
+    "networking/images/Pasted image 20231015232257.png",
+    "README.md",
     "networking",
     "Networking.md",
-    "2023-10-05.md",
-    "Untitled.canvas"
+    "2023-10-05.md"
   ]
 }

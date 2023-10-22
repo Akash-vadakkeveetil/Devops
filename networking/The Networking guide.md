@@ -109,3 +109,10 @@ The key elements of a protocol are
 ### Protocol Hierarchy - Layered structure
 
 
+To reduce the complexity in design, the networks are arranged as a stack of layers. Each layer performs separate functions and provide services to the upper layers. The number of layers, the name of layers and the functions of layers differ from network to network.
+In a layer n architecture, layer n of one machine carries on conversation with the n layer of the other machine and the rules used in this conversation are collectively called the n layer protocol.
+
+![[Pasted image 20231016065915.png]]
+*credits : geeks for geeks*
+
+The above figure is an example for 5 layered architecture . 
