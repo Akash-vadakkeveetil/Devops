@@ -1,6 +1,10 @@
-# DevOps
 
-This is the place where I showcase my learnings on the field DEVOPS, from nothing to everything what I am today will be here. Feel free to walk around and share feedback
+<div style="text-align:center">
+  <h1>DevOps</h1>
+</div>
+
+
+This is the place where I showcase my learnings on the field DevOps, from nothing to everything what I am today will be here. Feel free to walk around and share feedback
 
 ### Table of contents
 

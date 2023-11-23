@@ -1,3 +1,6 @@
+<div style="text-align:center">
+  <h1>Introduction to DevOps</h1>
+</div>
 
 Consider a company, for example a one like the Twitter. So the programmers are responsible for coding the app and its features in the twitter. There will be a team of software developers for the application or a team for some specific features for big companies like the Twitter or Facebook.
 That is a team of Devs will be working on the messenger feature of Facebook, some other team will be working on conversations API. So there is are the guys that write code for specific feature and also these are the guys that fix if any issue occurs.
@@ -8,7 +11,7 @@ So after testing now the version or update is to be released, and it should be i
 
 So the dev team handovers it to the operation team 
 
-![[Pasted image 20231123214108.png]]
+![[Images/Pasted image 20231123214108.png]]
 
 The responsibility of operations team is that the code is deployed properly without any problem, and it runs on all servers even while millions of people are using it.
 
