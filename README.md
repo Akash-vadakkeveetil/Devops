@@ -1,7 +1,6 @@
 
-<div style="text-align: center">
-  <h1>DevOps</h1>
-</div>
+# <p align="center">DevOps</p>
+
 
 
 This is the place where I showcase my learnings in the field of DevOps, from nothing to everything what I am today will be here. Feel free to walk around and share feedback
