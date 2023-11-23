@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align: center">
   <h1>Introduction to DevOps</h1>
 </div>
 
@@ -11,7 +11,7 @@ So after testing now the version or update is to be released, and it should be i
 
 So the dev team handovers it to the operation team 
 
-![[Images/Pasted image 20231123214108.png]]
+![[Pasted image 20231123214108.png]]
 
 The responsibility of operations team is that the code is deployed properly without any problem, and it runs on all servers even while millions of people are using it.
 
