@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Introduction to Devops/Introduction to Devops.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Introduction to Devops/Introduction to Devops.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Introduction to Devops/Introduction to Devops.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Introduction to Devops/Introduction to Devops.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "24bcbe6ff5e7bee4",
+  "active": "782cabd7b862f628",
   "lastOpenFiles": [
+    "1.Introduction to Devops/Introduction to Devops.md",
+    "Images/Pasted image 20231123214108.png",
     "Pasted image 20231123214108.png",
     "README.md",
-    "1.Introduction to Devops/Introduction to Devops.md",
     "networking/The Networking guide.md",
     "networking/Network Layer.md",
     "Monitoring with Prometheus",
@@ -169,7 +170,7 @@
     "Networking.md",
     "Pasted image 20231016065915.png",
     "Untitled.canvas",
-    "networking/images/Pasted image 20231015232257.png",
+    "Images/Pasted image 20231015232257.png",
     "sample readme.md",
     "2023-10-05.md"
   ]
