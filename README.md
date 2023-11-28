@@ -7,7 +7,7 @@ This is the place where I showcase my learnings in the field of DevOps, from not
 
 ### Table of contents
 
-- [Introduction to DevOps](https://github.com/Akash-vadakkeveetil/Devops/tree/main/1.Introduction%20to%20Devops)
+- [Introduction to DevOps](https://github.com/Akash-vadakkeveetil/Devops/tree/main/1.%20Introduction%20to%20Devops)
 - 
 
 
