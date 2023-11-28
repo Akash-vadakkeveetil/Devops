@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Introduction to Devops/Intro to Devops.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "24bcbe6ff5e7bee4",
+  "active": "782cabd7b862f628",
   "lastOpenFiles": [
-    "1.Introduction to Devops/Intro to Devops.md",
     "README.md",
+    "1. Introduction to Devops/Intro to Devops.md",
     "Images/Pasted image 20231123214108.png",
     "Images/Pasted image 20231016065915.png",
     "Images/Pasted image 20231015232257.png",
