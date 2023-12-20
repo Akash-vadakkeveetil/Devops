@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro to operating systems.md",
+                "file": "2. Operating systems and Linux basics/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro to operating systems.md",
+                "file": "2. Operating systems and Linux basics/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro to operating systems.md",
+                "file": "2. Operating systems and Linux basics/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro to operating systems.md"
+                "file": "2. Operating systems and Linux basics/Readme.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "24bcbe6ff5e7bee4",
   "lastOpenFiles": [
-    "2. Operating systems and Linux basics/Intro to OS and Linux Basics.md",
-    "2. Operating systems and Linux basics/Intro to operating systems.md",
+    "2. Operating systems and Linux basics/Intro to OS.md",
+    "2. Operating systems and Linux basics/Readme.md",
     "1. Introduction to Devops/Intro to Devops.md",
     "Images/intro.png",
     "Images/Pasted image 20231016065915.png",
