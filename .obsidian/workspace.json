@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Operating systems and Linux basics/Intro to operating systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Operating systems and Linux basics/Intro to operating systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Operating systems and Linux basics/Intro to operating systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Operating systems and Linux basics/Intro to operating systems.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "24bcbe6ff5e7bee4",
   "lastOpenFiles": [
+    "2. Operating systems and Linux basics/Intro to OS and Linux Basics.md",
+    "2. Operating systems and Linux basics/Intro to operating systems.md",
     "1. Introduction to Devops/Intro to Devops.md",
-    "README.md",
-    "Images/Pasted image 20231123214108.png",
+    "Images/intro.png",
     "Images/Pasted image 20231016065915.png",
     "Images/Pasted image 20231015232257.png",
+    "README.md",
     "Pasted image 20231123214108.png",
     "networking/The Networking guide.md",
     "networking/Network Layer.md",
