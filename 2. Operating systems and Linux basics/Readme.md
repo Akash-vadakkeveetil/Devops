@@ -3,7 +3,7 @@
 
 # Table of Contents
 
-- [Introduction to Operating Systems](2.%20Operating%20systems%20and%20Linux%20basics/Intro-to-OS.md)
+- [Introduction to Operating Systems](Intro-to-OS.md)
 - 
 
 
