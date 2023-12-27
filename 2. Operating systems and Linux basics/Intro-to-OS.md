@@ -21,7 +21,7 @@ This is where the Operating System (OS) comes in. Acting as an intermediary, the
 The operating system is basically made on top of a program called as the kernel. It is the program which is loaded first when the computer is turned on. It is the heart of an operating system.
 The kernel controls the interaction of CPU, Memory and RAM with the OS and the hardware.
 
-![Kernel](IMAGES/kernel1.PNG)
+![Kernel](IMAGES/kernel1.png)
 
 It also controls the I/O devices connected to the system using the inbuilt device drivers. The device drivers basically control the device. For example when we consider the case of a printer, the device driver translates print commands from the OS into a format the printer understands, manages communication between the OS and the printer, sending formatted data to be printed, allows configuration of print settings like quality, paper size, etc. and keeps track of the printer's status and handles errors during printing.
 
