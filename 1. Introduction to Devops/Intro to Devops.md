@@ -10,7 +10,7 @@ So after testing now the version or update is to be released, and it should be i
 
 So the dev team handovers it to the operation team 
 
-![sample](images/intro.png)
+![sample](Images/intro.PNG)
 
 The responsibility of operations team is that the code is deployed properly without any problem, and it runs on all servers even while millions of people are using it.
 

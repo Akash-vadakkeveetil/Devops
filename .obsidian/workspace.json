@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Introduction to Devops/Intro to Devops.md"
               }
             }
           }
@@ -147,20 +147,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "782cabd7b862f628",
+  "active": "24bcbe6ff5e7bee4",
   "lastOpenFiles": [
-    "VIM commads.md",
-    "README.md",
+    "2. Operating systems and Linux basics/README.md",
+    "Images/Pasted image 20231016065915.png",
+    "Images/Pasted image 20231015232257.png",
     "1. Introduction to Devops/Intro to Devops.md",
+    "README.md",
+    "VIM commads.md",
     "2. Operating systems and Linux basics/Intro-to-OS.md",
-    "2. Operating systems and Linux basics/Readme.md",
     "[Introduction.md",
     "Images/memory_swapping.png",
     "Images/os.png",
     "2. Operating systems and Linux basics/Intro to OS.md",
     "Images/intro.png",
-    "Images/Pasted image 20231016065915.png",
-    "Images/Pasted image 20231015232257.png",
     "Pasted image 20231123214108.png",
     "networking/The Networking guide.md",
     "networking/Network Layer.md",
