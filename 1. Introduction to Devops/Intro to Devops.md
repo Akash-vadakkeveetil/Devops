@@ -1,4 +1,4 @@
-# <p align="center">Introduction to DevOps</p>
+# <p align="center">Introduction to DevOps🏁</p>
 
 
 Consider a company, for example a one like the Twitter. So the programmers are responsible for coding the app and its features in the twitter. There will be a team of software developers for the application or a team for some specific features for big companies like the Twitter or Facebook.

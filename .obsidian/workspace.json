@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37373010d18ac6b3",
+        "id": "ae417c78f91b4eff",
         "type": "tabs",
         "children": [
           {
-            "id": "24bcbe6ff5e7bee4",
+            "id": "c7b41b92ce8d3728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro-to-OS.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro-to-OS.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro-to-OS.md",
+                "file": "1. Introduction to Devops/Intro to Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Operating systems and Linux basics/Intro-to-OS.md"
+                "file": "1. Introduction to Devops/Intro to Devops.md"
               }
             }
           }
@@ -147,23 +147,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "24bcbe6ff5e7bee4",
+  "active": "c7b41b92ce8d3728",
   "lastOpenFiles": [
-    "2. Operating systems and Linux basics/IMAGES/os.png",
-    "2. Operating systems and Linux basics/IMAGES/memory_swapping.png",
-    "1. Introduction to Devops/Intro to Devops.md",
     "1. Introduction to Devops/IMAGES/intro.png",
+    "2. Operating systems and Linux basics/Intro-to-OS.md",
+    "2. Operating systems and Linux basics/IMAGES/Kernel1.png",
+    "2. Operating systems and Linux basics/Intro-to-vm.md",
+    "2. Operating systems and Linux basics/IMAGES/mac.png",
+    "2. Operating systems and Linux basics/IMAGES/kernel3.png",
+    "2. Operating systems and Linux basics/IMAGES/kernel2.png",
+    "Pasted image 20231227183911.png",
+    "Pasted image 20231227183807.png",
+    "Pasted image 20231227183559.png",
+    "Pasted image 20231227175918.png",
+    "Pasted image 20231227175700.png",
+    "2. Operating systems and Linux basics/IMAGES/unix.png",
+    "2. Operating systems and Linux basics/IMAGES/unix.png.crdownload",
+    "README.md",
+    "2. Operating systems and Linux basics/README.md",
+    "1. Introduction to Devops/Intro to Devops.md",
     "1. Introduction to Devops/IMAGES",
     "2. Operating systems and Linux basics/IMAGES",
-    "2. Operating systems and Linux basics/README.md",
-    "Images/Pasted image 20231016065915.png",
-    "Images/Pasted image 20231015232257.png",
-    "README.md",
     "VIM commads.md",
-    "2. Operating systems and Linux basics/Intro-to-OS.md",
     "[Introduction.md",
     "2. Operating systems and Linux basics/Intro to OS.md",
-    "Pasted image 20231123214108.png",
     "networking/The Networking guide.md",
     "networking/Network Layer.md",
     "Monitoring with Prometheus",
@@ -173,10 +180,8 @@
     "Infrastructure as Code with Terraform",
     "Kubernetes on AWS - EKS",
     "Container Orchestration with Kubernetes",
-    "AWS Services",
     "networking.md",
     "Networking.md",
-    "Pasted image 20231016065915.png",
     "Untitled.canvas",
     "sample readme.md",
     "2023-10-05.md"
