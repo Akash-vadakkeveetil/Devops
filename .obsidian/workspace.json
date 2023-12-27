@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introduction to Devops/Intro to Devops.md",
+                "file": "2. Operating systems and Linux basics/Intro-to-OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to Devops/Intro to Devops.md",
+                "file": "2. Operating systems and Linux basics/Intro-to-OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introduction to Devops/Intro to Devops.md",
+                "file": "2. Operating systems and Linux basics/Intro-to-OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction to Devops/Intro to Devops.md"
+                "file": "2. Operating systems and Linux basics/Intro-to-OS.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "24bcbe6ff5e7bee4",
   "lastOpenFiles": [
+    "2. Operating systems and Linux basics/IMAGES/os.png",
+    "2. Operating systems and Linux basics/IMAGES/memory_swapping.png",
+    "1. Introduction to Devops/Intro to Devops.md",
     "1. Introduction to Devops/IMAGES/intro.png",
     "1. Introduction to Devops/IMAGES",
-    "1. Introduction to Devops/Intro to Devops.md",
     "2. Operating systems and Linux basics/IMAGES",
     "2. Operating systems and Linux basics/README.md",
     "Images/Pasted image 20231016065915.png",
@@ -160,8 +162,6 @@
     "VIM commads.md",
     "2. Operating systems and Linux basics/Intro-to-OS.md",
     "[Introduction.md",
-    "Images/memory_swapping.png",
-    "Images/os.png",
     "2. Operating systems and Linux basics/Intro to OS.md",
     "Pasted image 20231123214108.png",
     "networking/The Networking guide.md",
