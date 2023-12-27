@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-OS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro-to-OS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro-to-OS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro-to-OS.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,18 +147,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "24bcbe6ff5e7bee4",
+  "active": "782cabd7b862f628",
   "lastOpenFiles": [
-    "2. Operating systems and Linux basics/Readme.md",
-    "2. Operating systems and Linux basics/Intro-to-OS.md",
-    "2. Operating systems and Linux basics/Intro to OS.md",
-    "[Introduction.md",
-    "Intro-to-OS.md",
+    "VIM commads.md",
+    "README.md",
     "1. Introduction to Devops/Intro to Devops.md",
+    "2. Operating systems and Linux basics/Intro-to-OS.md",
+    "2. Operating systems and Linux basics/Readme.md",
+    "[Introduction.md",
+    "Images/memory_swapping.png",
+    "Images/os.png",
+    "2. Operating systems and Linux basics/Intro to OS.md",
     "Images/intro.png",
     "Images/Pasted image 20231016065915.png",
     "Images/Pasted image 20231015232257.png",
-    "README.md",
     "Pasted image 20231123214108.png",
     "networking/The Networking guide.md",
     "networking/Network Layer.md",
@@ -173,7 +175,6 @@
     "Build Automation and CI_CD with Jenkins",
     "Containers with Docker",
     "networking.md",
-    "VIM commads.md",
     "Networking.md",
     "Pasted image 20231016065915.png",
     "Untitled.canvas",

@@ -3,7 +3,7 @@
 
 
 
-This is the place where I showcase my learnings in the field of DevOps, from nothing to everything what I am today will be here. Feel free to walk around and share feedback
+Welcome to my DevOps showcase—an evolving journey from novice to expert. Explore freely and share your valuable feedback as I document my growth and learnings in this field.
 
 ### Table of contents
 
