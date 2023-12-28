@@ -1,4 +1,4 @@
-# <p align="center">Operating systems and Linux Basics 🐧</p>
+<h1 align="center">Operating systems and Linux Basics 🐧</h1>
 <hr>
 
 # About this module 👀

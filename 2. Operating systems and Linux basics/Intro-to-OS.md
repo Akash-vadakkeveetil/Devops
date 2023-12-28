@@ -1,4 +1,5 @@
-# <p align="center">Introduction to Operating Systems 💻</p>
+<h1 align="center">Introduction to Operating Systems 💻</h1>
+<hr>
 #### What is an operating system ??
 Consider your computer as a hub with various hardware devices—such as printers, keyboards, and monitors—each having its own unique language or way of functioning. However, if you were to transfer data from one device to an application, it wouldn't be practical to write specific code in each application for accessing and interacting with each hardware component.
 
