@@ -1,6 +1,7 @@
 <h1 align="center">Introduction to Operating Systems 💻</h1>
 <hr>
-#### What is an operating system ??
+
+### What is an operating system ??
 Consider your computer as a hub with various hardware devices—such as printers, keyboards, and monitors—each having its own unique language or way of functioning. However, if you were to transfer data from one device to an application, it wouldn't be practical to write specific code in each application for accessing and interacting with each hardware component.
 
 This is where the Operating System (OS) comes in. Acting as an intermediary, the OS bridges the gap between these applications and the hardware. It essentially serves as a mediator that understands the intricacies of different hardware languages. When applications need to interact with hardware, they communicate with the OS, which then manages the complexities of interfacing with the hardware. This allows the applications to focus on their specific tasks without having to worry about the technical details of how to communicate with individual devices. It also acts as a translator between hardware and system.

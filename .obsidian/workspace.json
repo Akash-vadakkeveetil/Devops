@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "2. Operating systems and Linux basics/Intro-to-vm.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Operating systems and Linux basics/Intro-to-vm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Operating systems and Linux basics/Intro-to-vm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Operating systems and Linux basics/Intro-to-vm.md"
               }
             }
           }
@@ -149,22 +149,22 @@
   },
   "active": "c7b41b92ce8d3728",
   "lastOpenFiles": [
-    "1. Introduction to Devops/README.md",
+    "2. Operating systems and Linux basics/IMAGES/Type.png",
+    "2. Operating systems and Linux basics/IMAGES/virtualisation.png",
     "2. Operating systems and Linux basics/README.md",
-    "2. Operating systems and Linux basics/Intro-to-OS.md",
-    "README.md",
+    "Pasted image 20231229181207.png",
+    "Pasted image 20231229185424.png",
+    "Pasted image 20231229185330.png",
+    "Pasted image 20231229181304.png",
     "2. Operating systems and Linux basics/Intro-to-vm.md",
+    "Pasted image 20231229181338.png",
+    "2. Operating systems and Linux basics/Intro-to-OS.md",
+    "2. Operating systems and Linux basics/IMAGES/Kernel1.png",
+    "README.md",
+    "1. Introduction to Devops/README.md",
     "1. Introduction to Devops/Intro to Devops.md",
     "1. Introduction to Devops/IMAGES/intro.png",
-    "2. Operating systems and Linux basics/IMAGES/Kernel1.png",
     "2. Operating systems and Linux basics/IMAGES/mac.png",
-    "2. Operating systems and Linux basics/IMAGES/kernel3.png",
-    "2. Operating systems and Linux basics/IMAGES/kernel2.png",
-    "Pasted image 20231227183911.png",
-    "Pasted image 20231227183807.png",
-    "Pasted image 20231227183559.png",
-    "Pasted image 20231227175918.png",
-    "Pasted image 20231227175700.png",
     "2. Operating systems and Linux basics/IMAGES/unix.png.crdownload",
     "1. Introduction to Devops/IMAGES",
     "2. Operating systems and Linux basics/IMAGES",
