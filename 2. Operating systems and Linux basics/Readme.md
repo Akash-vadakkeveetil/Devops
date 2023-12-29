@@ -7,5 +7,5 @@ This module contains all the things about OS and Linux which will help you to ge
 # Table of Contents
 
 - [Introduction to Operating Systems](Intro-to-OS.md)
-- [Introduction to Virtual Machine](Intro-to-vm)
+- [Introduction to Virtual Machine](Intro-to-vm.md)
 - 
