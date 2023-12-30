@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM commads.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM commads.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM commads.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM commads.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "782cabd7b862f628",
+  "active": "c7b41b92ce8d3728",
   "lastOpenFiles": [
     "README.md",
     "1. Introduction to Devops/README.md",
