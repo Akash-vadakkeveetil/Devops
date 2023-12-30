@@ -1,7 +1,7 @@
-<h1 align="center">Introduction to Virtual Machine</h1>
+<h1 align="center">Introduction to Virtual Machine📳</h1>
 <hr>
 
-### What is a virtual Machine ? 
+### What is a virtual Machine 🤔? 
 
 Consider this case, I have a system and the OS which I am currently using is windows. So now if I have to use Linux, the way to make this happen is that I have to remove the windows and the installation of Linux on my system. But the help of virtualization I can make Linux OS run on top of this windows, that is I can use Linux without removing Windows. This is called virtualization, and the software which enables us to use multiple OS on a single hardware system is called a Virtual Machine. 
 
