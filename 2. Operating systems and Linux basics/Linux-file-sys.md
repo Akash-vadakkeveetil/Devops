@@ -1,6 +1,6 @@
 <h1 align="center">Linux File System 📂</h1>
 <hr>
-## Linux File system VS Windows File system
+<h2>Linux File system VS Windows File system</h2>
 
 The Linux file system is a hierarchical system, it is just like a tree structure a shown below
 
