@@ -9,4 +9,5 @@ This module contains all the things about OS and Linux which will help you to ge
 - [Introduction to Operating Systems](Intro-to-OS.md)
 - [Introduction to Virtual Machine](Intro-to-vm.md)
 - [Linux File System](Linux-file-sys.md)
+- [Linux Basic Commands [CLI]](Basic-commands.md)
 - 
