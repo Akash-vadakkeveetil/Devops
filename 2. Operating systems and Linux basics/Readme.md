@@ -11,3 +11,4 @@ This module contains all the things about OS and Linux which will help you to ge
 - [Linux File System](Linux-file-sys.md)
 - [Linux Basic Commands [CLI]](Basic-commands.md)
 - [Package Manager on Linux](Package-manager.md)
+- [Introduction to VIM](vim.md)
