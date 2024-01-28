@@ -2,7 +2,7 @@
 <hr>
 
   
-To deploy the application on a production server, the developer needs to package the application into a single movable file, known as an ==artifact==. This involves the process of packaging, which essentially means building the code along with its dependencies. Once the packaging is complete, the resulting artifact contains the entire application code and its required dependencies. This consolidated file can then be easily transported and deployed on the production server for seamless execution. In essence, packaging is the crucial step in preparing the application for deployment, ensuring that it can be efficiently moved and run on the designated server.
+To deploy the application on a production server, the developer needs to package the application into a single movable file, known as an `artifact`. This involves the process of packaging, which essentially means building the code along with its dependencies. Once the packaging is complete, the resulting artifact contains the entire application code and its required dependencies. This consolidated file can then be easily transported and deployed on the production server for seamless execution. In essence, packaging is the crucial step in preparing the application for deployment, ensuring that it can be efficiently moved and run on the designated server.
 
 ### Where do we store these artifacts ??
 
