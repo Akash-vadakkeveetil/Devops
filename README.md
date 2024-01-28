@@ -9,7 +9,7 @@
 
 >Nb : This repo is never complete, contents will be getting added step by step as I am learning them. Trust the process !!! Happy Learning ✨
 
-> List of tools ⇾ [TOOLS]()
+> List of tools which used in DevOps and tech⇾ [TOOLS GUIDE](https://github.com/Akash-vadakkeveetil/Devops/tree/main/TOOLS%20INSTALLATION)
 <h2>Table of contents 🎯</h2>
 
 - [Introduction to DevOps](https://github.com/Akash-vadakkeveetil/Devops/tree/main/1.%20Introduction%20to%20Devops)
