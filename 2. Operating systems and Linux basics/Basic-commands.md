@@ -141,4 +141,7 @@
 - `history`- to show all the commands we used in the current session
 - `history <number>` - to display the last <number> commands used in the current session
 
+### Pipes and Redirects 
 
+- Some times we have to use the output of one command as the input of next . So we use pipe represented by `|`
+- 

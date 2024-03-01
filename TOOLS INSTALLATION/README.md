@@ -8,7 +8,7 @@
 	- Chocolatey for Windows: https://chocolatey.org/ 
 	- Linux has apt-get or yum package-manager already available
 - #### Code Editor:
-	- IntelliJ IDEA : https://www.jetbrains.com/idea/download/ 
+	- IntelliJ IDEA : https://www.jetbrains.com/idea/download/ (Download the community edition its free)
 	- Visual Studio Code: https://code.visualstudio.com/download
 - #### Git CLI 
 	- Git Command Line Tool: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 

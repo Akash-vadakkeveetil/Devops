@@ -104,9 +104,9 @@ Modify a user account
 
 `sudo usermod -G admin Aksh ` - overrides every other preexisting group and adds the user to the freshly crealted group
 
-`sudo usermod -aG newGroup Akash - to append one more group
+`sudo usermod -aG newGroup Akash` - to append one more group
 
-'groups' - displays which all groups are the logged user present in
+`groups` - displays which all groups are the logged user present in
 
 `groups Akash` - to see which all groups user is in without logging in as that user.
 

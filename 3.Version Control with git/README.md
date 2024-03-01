@@ -1,6 +1,18 @@
 <h1 align="center">Git basics 🌿</h1>
 <hr>
 
+## How to track files in git ?
+- Firstly, you have to install git in your system. Then create a folder in which you are planning to put the code and files which you have to track.
+- Then create a repository in your GitHub account
+- open terminal in the folder and type the following commands
+		1. `git init`
+		2. `git status`
+		3. `git add .` - to stage ever files
+		4. `git add filename1 filename2` - to stage files 
+		5. `git commit -m "Initial commit"`
+		6. `git remote add origin <remote_repository_url>` - linking to remote repo which we created in GitHub	
+		7. `git push -u origin master` - to push to master or main branch
+
 ## Why a master/main branch ??
 
 When two individual devs are working on a single function, they should have an idea about how the current process is in, that is, they should not make random changes inside the project and make it hard for other devs working on a feature. So the master branch gives the idea about the current state of the project and if any new feature is to be added then it is made in sub-branches and after verification it is branched in to the main branch.
@@ -17,6 +29,7 @@ test ⇾ build ⇾ deploy happens.
 - `git checkout <branch name>` - switch working branches  ,if we do this we will have a copy of the main branch and all the changes which we make will be on the duplicate branch.
 
 - `git checkout -b <branch name>` - creating and switching to new branch
+- `git branch -m master main` - to make the master branch as main
 
 <hr>
 
@@ -94,3 +107,6 @@ Thumbs.db
 `git revert`- create a new commit that undoes the changes made in a previous commit.
 ### **Changing commits**
 `git commit --amend` - to add the changes with the last done commit
+
+
+
